@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Final Project</string>
+
+    <string name="MealAndPrice">
+        <Item>大麥克</Item>
+        <Item>雙層牛肉吉事堡</Item>
+        <Item>嫩煎雞腿堡</Item>
+        <Item>麥香雞</Item>
+        <Item>麥克雞塊(6塊)</Item>
+        <Item>麥克雞塊(10塊)</Item>
+        <Item>勁辣雞腿堡</Item>
+        <Item>麥脆雞翅</Item>
+        <Item>麥脆雞腿</Item>
+        <Item>黃金起司豬排堡</Item>
+        <Item>麥香魚</Item>
+        <Item>煙燻雞肉長堡</Item>
+        <Item>醬燒豬肉長堡</Item>
+        <Item>蕈菇安格斯黑牛堡</Item>
+        <Item>BLT安格斯黑牛堡</Item>
+        <Item>BLT辣脆雞腿堡</Item>
+        <Item>BLT嫩煎雞腿堡</Item>
+        <Item>凱撒辣脆雞沙拉</Item>
+        <Item>義式烤雞沙拉</Item>
+    </string>
+</resources>
